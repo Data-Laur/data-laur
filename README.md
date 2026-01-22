@@ -8,11 +8,11 @@ In 2020, I led the team at Puraka Masks as General Manager through the height of
 
 While I successfully navigated the "Front-of-House"—securing top Google rankings and building deep customer trust—I also saw how "data black boxes" in logistics could dismantle a mission-driven business. I am now building the technical "shield" I wish I’d had then. I translate founder intuition into technical expertise to help companies turn complex datasets into actionable product strategies.
 
-## Category,Tools & Technologies
-Data Science,"Python (Pandas, NumPy, Scikit-Learn), Random Forest, Regression Analysis"
-Product & UX,"Quantitative UX Research, Customer Segmentation, Market Insights, Product Strategy"
-Visualization,"Tableau, Web Analytics, SEO Auditing, Qualitative-to-Quantitative Analysis"
-Foundational,SQL (Currently acquiring advanced Data Management at Scale skills)
+## Tools & Technologies
+Data Science: Python (Pandas, NumPy, Scikit-Learn), Random Forest, Regression Analysis
+Product & UX: Quantitative UX Research, Customer Segmentation, Market Insights, Product Strategy
+Visualization: Tableau, Web Analytics, SEO Auditing, Qualitative-to-Quantitative Analysis
+Foundational SQL (Currently acquiring advanced Data Management at Scale skills)
 
 ## 📈 Featured Projects
 [Taskrabbit: Predictive Market Pricing & Strategy Proposal](https://www.laurendemidesign.com/p/taskrabbit-select)
