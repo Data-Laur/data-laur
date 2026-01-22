@@ -1,7 +1,7 @@
-## Lauren | Founder-Scientist, Product Strategist 👩🏻‍💻
+## Lauren | Data Science Candidate | Product Strategy & UX Research 👩🏻‍💻
 
 ## Bridging the Gap Between Human Intuition and Machines
-I am a Master’s candidate in Data Science at Boston University specializing in the intersection of Quantitative UX Research and Product Strategy. My background as a General Manager and startup leader allows me to look past the numbers to see the human behavior and business outcomes they represent.
+I am a Master’s candidate in Data Science at Boston University (3.94 GPA) with a background in operational leadership. I am currently focused on using data to build transparency and mitigate risk in complex systems.
 
 ## 🚀 Why I Traded My GM Title for a Python Terminal
 In 2020, I led the team at Puraka Masks as General Manager through the height of the West Coast wildfires and the global pandemic. I spearheaded our migration to Shopify, managed global supply chains, and built a brand centered on inclusive, eco-friendly product lines.
