@@ -34,4 +34,4 @@ Photographer for Conferences | ODSC (Open-Data Science Conference) East, UXDX, S
 ## 🤝 Connect with Me
 [Read my story on Medium: "The Data Gap: Why I Traded My GM Title for a Python Terminal"](https://medium.com/@datalaur/the-data-gap-why-i-traded-my-gm-title-for-a-python-terminal-3dc982035e49)
 
-[Strategic Case Studies](www.laurendemidesign.com)
+[Portfolio/Strategic Case Studies](www.laurendemidesign.com)
