@@ -15,7 +15,7 @@ Visualization,"Tableau, Web Analytics, SEO Auditing, Qualitative-to-Quantitative
 Foundational,SQL (Currently acquiring advanced Data Management at Scale skills)
 
 ## 📈 Featured Projects
-[Taskrabbit: Predictive Market Pricing & Strategy Proposal](https://www.laurendemidesign.com/p/taskrabbit-select)]
+[Taskrabbit: Predictive Market Pricing & Strategy Proposal](https://www.laurendemidesign.com/p/taskrabbit-select)
 Developed a Random Forest pipeline to identify pricing differentials across diverse markets.
 Presented a new data-driven product feature proposal directly to **Taskrabbit’s Chief Product Officer.
 
@@ -27,8 +27,7 @@ Founder of Lauren Demi Photography, Co-Founder of BlueHour Photo Ventures
 Photographer for Conferences | ODSC (Open-Data Science Conference) East, UXDX, Smashing Conference, Data Science Salon
 
 ## 🤝 Connect with Me
-Read my story on Medium: "The Data Gap: Why I Traded My GM Title for a Python Terminal"
+[Read my story on Medium: "The Data Gap: Why I Traded My GM Title for a Python Terminal"]
+(https://medium.com/@datalaur/the-data-gap-why-i-traded-my-gm-title-for-a-python-terminal-3dc982035e49)
 
-https://www.google.com/search?q=LinkedIn: [Your Profile https://www.google.com/search?q=Link]
-
-Portfolio: [Your Portfolio https://www.google.com/search?q=Link]
+[Strategic Case Studies] (www.laurendemidesign.com)
