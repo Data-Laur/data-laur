@@ -22,9 +22,13 @@ Presented a new data-driven product feature proposal directly to **Taskrabbit’
 
 ## 🎓 Education & Achievements
 MS in Data Science | Boston University | GPA: 3.94 (current)
+
 BSBA in Business Administration, Marketing | 2014
+
 Four extensive certificates in UI, UX Design and Research via CareerFoundry & Memorisely
+
 Founder of Lauren Demi Photography, Co-Founder of BlueHour Photo Ventures
+
 Photographer for Conferences | ODSC (Open-Data Science Conference) East, UXDX, Smashing Conference, Data Science Salon
 
 ## 🤝 Connect with Me
