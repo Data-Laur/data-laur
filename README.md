@@ -1,4 +1,4 @@
-##Lauren | Founder-Scientist, Product Strategist
+## Lauren | Founder-Scientist, Product Strategist 👩🏻‍💻
 
 ## Bridging the Gap Between Human Intuition and Machine Rigor
 I am a Master’s candidate in Data Science at Boston University specializing in the intersection of Quantitative UX Research and Product Strategy. My background as a General Manager and startup leader allows me to look past the numbers to see the human behavior and business outcomes they represent.
