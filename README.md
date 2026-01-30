@@ -32,6 +32,7 @@ Founder of Lauren Demi Photography, Co-Founder of BlueHour Photo Ventures
 Photographer for Conferences | ODSC (Open-Data Science Conference) East, UXDX, Smashing Conference, Data Science Salon
 
 ## 🤝 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/lchagaris)
 [Read my story on Medium: "The Data Gap: Why I Traded My GM Title for a Python Terminal"](https://medium.com/@datalaur/the-data-gap-why-i-traded-my-gm-title-for-a-python-terminal-3dc982035e49?source=friends_link&sk=d00f87e894cf3d255331de146102de83)
 
 [Portfolio/Strategic Case Studies](www.laurendemidesign.com)
