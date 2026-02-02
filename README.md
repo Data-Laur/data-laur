@@ -1,4 +1,4 @@
-## Lauren | Data Science Candidate | Research, Product Strategy & Machine Learning
+## Lauren | Data Science Candidate | Research, Product Strategy & ML
 
 ## Bridging the Gap Between Human Intuition and Machines
 I am a Master’s candidate in Data Science at Boston University (3.94 GPA) with a background in operational leadership. I am currently focused on using data to build transparency and mitigate risk in complex systems.
