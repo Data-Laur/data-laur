@@ -14,21 +14,11 @@ Product & UX: Quantitative UX Research, Customer Segmentation, Market Insights, 
 Visualization: Tableau, Web Analytics, SEO Auditing, Qualitative-to-Quantitative Analysis
 Foundational SQL (Currently acquiring advanced Data Management at Scale skills)
 
-## Featured Projects
-[Taskrabbit: Predictive Market Pricing & Strategy Proposal](https://www.laurendemidesign.com/p/taskrabbit-select)
-
-Developed a Random Forest pipeline to identify pricing differentials across diverse markets.
-Presented a new data-driven product feature proposal directly to **Taskrabbit’s Chief Product Officer.
-
 ## Education & Achievements
 MS in Data Science | Boston University | GPA: 3.94 (current)
-
 BSBA in Business Administration, Marketing | 2014
-
 Four extensive certificates in UI, UX Design and Research via CareerFoundry & Memorisely
-
 Founder of Lauren Demi Photography, Co-Founder of BlueHour Photo Ventures
-
 Photographer for Conferences | ODSC (Open-Data Science Conference) East, UXDX, Smashing Conference, Data Science Salon
 
 ## 🤝 Connect with Me
