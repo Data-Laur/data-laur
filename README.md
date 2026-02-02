@@ -8,12 +8,6 @@ In 2020, I led the team at Puraka Masks as General Manager through the height of
 
 While I successfully navigated the "Front-of-House"—securing top Google rankings and building deep customer trust—I also saw how "data black boxes" in logistics could dismantle a mission-driven business. I am now building the technical "shield" I wish I’d had then. I translate founder intuition into technical expertise to help companies turn complex datasets into actionable product strategies.
 
-## Tools & Technologies
-Data Science: Python (Pandas, NumPy, Scikit-Learn), Random Forest, Regression Analysis
-Product & UX: Quantitative UX Research, Customer Segmentation, Market Insights, Product Strategy
-Visualization: Tableau, Web Analytics, SEO Auditing, Qualitative-to-Quantitative Analysis
-Foundational SQL (Currently acquiring advanced Data Management at Scale skills)
-
 ## Education & Achievements
 MS in Data Science | Boston University | GPA: 3.94 (current)
 
