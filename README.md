@@ -16,11 +16,16 @@ Foundational SQL (Currently acquiring advanced Data Management at Scale skills)
 
 ## Education & Achievements
 MS in Data Science | Boston University | GPA: 3.94 (current)
+
 BSBA in Business Administration, Marketing | 2014
+
 Four extensive certificates in UI, UX Design and Research via CareerFoundry & Memorisely
+
 Founder of Lauren Demi Photography, Co-Founder of BlueHour Photo Ventures
+
 Photographer for Conferences | ODSC (Open-Data Science Conference) East, UXDX, Smashing Conference, Data Science Salon
 
 ## 🤝 Connect with Me
 [LinkedIn](https://www.linkedin.com/in/lchagaris)
+
 [Read my story on Medium: "The Data Gap: Why I Traded My GM Title for a Python Terminal"](https://medium.com/@datalaur/the-data-gap-why-i-traded-my-gm-title-for-a-python-terminal-3dc982035e49?source=friends_link&sk=d00f87e894cf3d255331de146102de83)
