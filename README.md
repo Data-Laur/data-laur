@@ -1,7 +1,7 @@
 ## Lauren | Data Science Candidate | Research, Product Strategy & ML
 
 ## Bridging the Gap Between Human Intuition and Machines
-I am a Master’s candidate in Data Science at Boston University (3.94 GPA) with a background in operational leadership. I am currently focused on using data to build transparency and mitigate risk in complex systems.
+I am a Master’s candidate in Data Science at Boston University with a background in operational leadership. I am currently focused on using data to build transparency and mitigate risk in complex systems.
 
 ## Why I Traded My GM Title for a Python Terminal
 In 2020, I led the team at Puraka Masks as General Manager through the height of the West Coast wildfires and the global pandemic. I spearheaded our migration to Shopify, managed global supply chains, and built a brand centered on inclusive, eco-friendly product lines.
