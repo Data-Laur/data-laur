@@ -9,7 +9,7 @@ In 2020, I led the team at Puraka Masks as General Manager through the height of
 While I successfully navigated the "Front-of-House"—securing top Google rankings and building deep customer trust—I also saw how "data black boxes" in logistics could dismantle a mission-driven business. I am now building the technical "shield" I wish I’d had then. I translate founder intuition into technical expertise to help companies turn complex datasets into actionable product strategies.
 
 ### 🚀 Featured Project: The Vibe Check
-I audited my own life using Python.
+I audited my own life using Python, quantifying "reliability" and "soft skills" for technical recruiters.
 > **[The Operational Reliability Dashboard](https://lauren-ops-audit.streamlit.app/)**
 > * **190** Verified Tasks Audited
 > * **4.94** Composite Rating
